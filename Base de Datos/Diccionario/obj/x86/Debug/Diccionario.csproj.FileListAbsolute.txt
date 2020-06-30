@@ -1,0 +1,147 @@
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\bin\Debug\Diccionario.exe
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\bin\Debug\Diccionario.pdb
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.Diccionario.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.Properties.Resources.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.exe
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.pdb
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DNombre.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DBajaEnt.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DModificarEnt.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DAltaAtr.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DBajaAtr.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DModificaAtr.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DMClaveP.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CSecuencial.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CIngreDat.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CModSDat.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CSecIndex.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CIngDatSI.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CModSIDat.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CHash.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CIngDatHE.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CModHsDat.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CIngDatMll.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CModMlDat.resources
+C:\Users\dfjp\Documents\Visual Studio 2010\Projects\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CMultillave.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.exe
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.pdb
+E:\DFJP\Programas C#\Diccionario\Diccionario\bin\Debug\Diccionario.exe
+E:\DFJP\Programas C#\Diccionario\Diccionario\bin\Debug\Diccionario.pdb
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CHash.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CIngDatHE.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CIngDatMll.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CIngDatSI.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CIngreDat.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CModHsDat.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CModMlDat.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CModSDat.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CModSIDat.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CMultillave.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CSecIndex.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.CSecuencial.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DAltaAtr.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DBajaAtr.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DBajaEnt.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DMClaveP.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DModificaAtr.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DModificarEnt.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.DNombre.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.Diccionario.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.Properties.Resources.resources
+E:\DFJP\Programas C#\Diccionario\Diccionario\obj\x86\Debug\Diccionario.csproj.GenerateResource.Cache
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.exe
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.pdb
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CIngreDat.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CModSDat.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CSecuencial.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DAltaAtr.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DBajaAtr.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DBajaEnt.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DMClaveP.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DModificaAtr.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DModificarEnt.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DNombre.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.Diccionario.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.Properties.Resources.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.csproj.GenerateResource.Cache
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\bin\Debug\Diccionario.exe
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\bin\Debug\Diccionario.pdb
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.MenuPrincipal.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CLogin.resources
+E:\DFJP\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CUsuario.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\bin\Debug\Diccionario.exe
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\bin\Debug\Diccionario.pdb
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CIngreDat.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CLogin.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CModSDat.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CSecuencial.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CUsuario.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DAltaAtr.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DBajaAtr.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DBajaEnt.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DMClaveP.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DModificaAtr.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DModificarEnt.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DNombre.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.Diccionario.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.FormPreload.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.MenuPrincipal.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.Properties.Resources.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.exe
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.pdb
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.exe
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.pdb
+E:\Programas C#\Base de Datos A\Diccionario\bin\Debug\Diccionario.exe
+E:\Programas C#\Base de Datos A\Diccionario\bin\Debug\Diccionario.pdb
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CIngreDat.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CLogin.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CModSDat.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CSecuencial.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CUsuario.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DAltaAtr.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DBajaAtr.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DBajaEnt.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DMClaveP.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DModificaAtr.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DModificarEnt.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DNombre.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.Diccionario.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.FormPreload.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.MenuPrincipal.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.Properties.Resources.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.csproj.GenerateResource.Cache
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.FormRespaldos.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.FormSQL.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.FormRespaldos.resources
+E:\Programas C#\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.FormSQL.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.exe
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.pdb
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\bin\Debug\Diccionario.exe
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\bin\Debug\Diccionario.pdb
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CIngreDat.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CLogin.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CModSDat.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CSecuencial.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.CUsuario.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DAltaAtr.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DBajaAtr.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DBajaEnt.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DMClaveP.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DModificaAtr.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DModificarEnt.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.DNombre.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.Diccionario.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.FormPreload.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.FormRespaldos.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.FormSQL.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.MenuPrincipal.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\Diccionario.Properties.Resources.resources
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\dfjpmosh\GoogleDrive\Proyecto de Bases de Datos A\Base de Datos A\Diccionario\obj\x86\Debug\GenerateResource.write.1.tlog
